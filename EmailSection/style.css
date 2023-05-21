@@ -1,0 +1,9 @@
+.container {
+    max-width: 32rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.inbox {
+    margin-top: 4rem;
+}
